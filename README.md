@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Stefhan!<br><br>I am currently studying at Telkom University in Bandung, focusing on fullstack web development. In addition to web development, I have a keen interest in data science. I am passionate about learning new things and always stay updated with the latest advancements in web technology.
+Hello, I'm Stefhan!<br><br>I am Computer Science student at Telkom University in Bandung, focusing on fullstack web development. In addition to web development, I have a keen interest in data science. I am passionate about learning new things and always stay updated with the latest advancements in web technology.
 
 
 ## 🌐 Socials:
